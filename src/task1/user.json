@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "name": "John Doe",
+  "username": "johndoe",
+  "email": "johndoe@example.com",
+  "address": {
+    "street": "123 Main St",
+    "suite": "Apt 4",
+    "city": "New York",
+    "zipcode": "12345",
+    "geo": {
+      "lat": "40.7128",
+      "lng": "-74.0060"
+    }
+  },
+  "phone": "123-456-7890",
+  "website": "example.com",
+  "company": {
+    "name": "Example Company",
+    "catchPhrase": "Lorem ipsum dolor sit amet",
+    "bs": "Lorem ipsum"
+  }
+}
